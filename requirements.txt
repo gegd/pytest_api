@@ -19,7 +19,7 @@ pytest-html==1.19.0
 pytest-metadata==1.8.0
 PyTestReport==0.1.9.3
 PyYAML==5.2
-requests==2.19.1
+requests==2.20.0
 requests-toolbelt==0.8.0
 selenium==2.53.6
 six==1.13.0
