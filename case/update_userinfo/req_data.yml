@@ -1,0 +1,5 @@
+update_sex:
+- ['M', {"message": "update some data!", "code": 0}]
+- ['F', {"message": "update some data!", "code": 0}]
+- ['X', {"message": "参数类型错误", "code": 3333}]
+
