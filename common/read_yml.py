@@ -8,9 +8,7 @@ def read_yaml_file(yaml_path):
 
     with open(yaml_path, 'r', encoding='utf-8') as f:
         cfg = f.read()
-        print(cfg)
         data = yaml.load(cfg, Loader=yaml.FullLoader)
-        print(data['update_sex'])
         return data
 
 

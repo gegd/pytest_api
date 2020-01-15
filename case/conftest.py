@@ -29,3 +29,4 @@ def do_register_del():
     connect = DbConnect('apps')
     delete_sql = "delete from auth_user where username = 'test1124'"
     connect.execute(delete_sql)
+    connect.close()
