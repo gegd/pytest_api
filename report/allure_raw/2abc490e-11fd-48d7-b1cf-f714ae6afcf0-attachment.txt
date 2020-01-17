@@ -1,0 +1,5 @@
+先登录
+{'User-Agent': 'python-requests/2.22.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+{'code': 0, 'msg': 'login success!', 'username': 'test', 'token': 'd7e2c6e4f3b7dbe63ad77e88492c7d3aa0c07dfb'}
+{'User-Agent': 'python-requests/2.22.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'Token d7e2c6e4f3b7dbe63ad77e88492c7d3aa0c07dfb'}
+{"message":"update some data!","code":0,"data":{"name":"test","sex":"M","age":"20","mail":"283340479@qq.com"}}

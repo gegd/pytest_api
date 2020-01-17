@@ -125,12 +125,12 @@ tr {
                     <h2>PyTestReport</h2>
                     
                     <div>
-                        <p class='attribute'><strong>开始时间:</strong> 2020-01-08 21:43:27</p>
-                        <p class='attribute'><strong>执行耗时:</strong> 1.215276</p>
+                        <p class='attribute'><strong>开始时间:</strong> 2020-01-17 15:39:10</p>
+                        <p class='attribute'><strong>执行耗时:</strong> 4.087234</p>
                         <p class='attribute'><strong>状态:</strong>
-                            <span class="badge badge-success" style="background-color: rgb(0 255 127);">&nbsp;通过: 7&nbsp;</span>
+                            <span class="badge badge-success" style="background-color: rgb(0 255 127);">&nbsp;通过: 9&nbsp;</span>
                             <span class="badge badge-danger" style="background-color: rgb(255, 99, 132);">&nbsp;失败：0&nbsp;</span>
-                            <span class="badge badge-primary" style="background-color: rgb(54, 162, 235);">&nbsp;错误：1&nbsp;</span>
+                            <span class="badge badge-primary" style="background-color: rgb(54, 162, 235);">&nbsp;错误：2&nbsp;</span>
                             <span class="badge badge-secondary" style="background-color: rgb(201, 203, 207);">&nbsp;跳过：0&nbsp;</span>
                         </p>
                     </div>
@@ -138,11 +138,11 @@ tr {
             </div>
             <div class="col-4 middle-col">
                 <div class="total-area">
-                    <h1>8</h1>
+                    <h1>11</h1>
                     <div>用例总数</div>
                 </div>
                 <div class="total-area">
-                    <h1>8</h1>
+                    <h1>10</h1>
                     <div>套件总数</div>
                 </div>
             </div>
@@ -367,12 +367,105 @@ case\do_register\test_register.py:36: AssertionError
                             
                         
                     
-                    <tr id='total_row'>
-                        <td>总计</td>
-                        <td>8</td>
-                        <td>7</td>
+                    <tr class='passClass' type="suite" id="testclass9">
+                        <td>test_add_image</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td><a href="javascript:showClassDetail('testclass9',1)">查看详情</a></td>
+                    </tr>
+                        
+                            
+                                <tr id='testpass.9.1' cid="testclass9" class='hiddenRow' type="case">
+                                    <td class='passCase'><div class='testcase'>test_add_image</div></td>
+                                    <td class='passCase' colspan='6' align='center'>PASS</td>
+                                </tr>
+                            
+                        
+                    
+                    <tr class='errorClass' type="suite" id="testclass10">
+                        <td>TestAddTeacher</td>
+                        <td>2</td>
+                        <td>1</td>
                         <td>0</td>
                         <td>1</td>
+                        <td>0</td>
+                        <td><a href="javascript:showClassDetail('testclass10',2)">查看详情</a></td>
+                    </tr>
+                        
+                            
+                                <tr id='testpass.10.1' cid="testclass10" class='hiddenRow' type="case">
+                                    <td class='passCase'><div class='testcase'>test_add_teacher001[yoyo002-18271739029-sdfs@qq.com-M-yoyo002]</div></td>
+                                    <td class='passCase' colspan='6' align='center'>PASS</td>
+                                </tr>
+                            
+                        
+                            
+                                <tr id='testerror.10.2' cid="testclass10" class='' type="case">
+                                    <td class='errorCase'><div class='testcase'>test_add_teacher002[-18271739029-sdfs@qq.com-M-yoyo002]</div></td>
+                                    <td colspan='6' align='center'>
+                                    <!--css div popup start-->
+                                    <a class="popup_link errorCase" onfocus='this.blur();' href="javascript:showTestDetail('div_testerror.10.2')" >
+                                        ERROR</a>
+                                    <div id='div_testerror.10.2' class="popup_window">
+                                        <div style='text-align: right; color:red;cursor:pointer'>
+                                        <a onfocus='this.blur();' onclick="document.getElementById('div_testerror.10.2').style.display = 'none';" >
+                                           [x]</a>
+                                        </div>
+                                        <pre style="font-size: 14px;">
+testerror.10.2:
+Error
+self = <case.xadmin_login.test_teacher_add.TestAddTeacher object at 0x000000000508FB70>, login_xadmin_fix = <requests.sessions.Session object at 0x000000000508FE48>, del_before_login = None, teacher_name = '', tel = '18271739029', mail = 'sdfs@qq.com'
+sex = 'M', expect = 'yoyo002'
+
+    @allure.story('姓名为空，新增失败')
+    @pytest.mark.parametrize('teacher_name,tel,mail,sex,expect', add_data1)
+    def test_add_teacher002(self, login_xadmin_fix, del_before_login, teacher_name, tel, mail, sex, expect):
+        """
+        新增老师用例,姓名为空
+        :param login_xadmin_fix:
+        :param del_before_login:
+        :param teacher_name:
+        :param tel:
+        :param mail:
+        :param sex:
+        :param expect:
+        :return:
+        """
+        res = add_teacher.teacher_add(login_xadmin_fix, teacher_name, tel, mail, sex)
+        # print(res.text)
+        x_path = "//*[@class='table table-bordered table-striped table-hover']/tbody/tr[1]/td[2]/a"
+>       acture_res = get_add_result(res, x_path)
+
+case\xadmin_login\test_teacher_add.py:54: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+result = <Response [200]>, x_path = "//*[@class='table table-bordered table-striped table-hover']/tbody/tr[1]/td[2]/a"
+
+    @allure.step('获取添加的结果')
+    def get_add_result(result, x_path):
+        demo = etree.HTML(result.text)
+        nodes = demo.xpath(x_path)
+>       print(nodes[0].text)
+E       IndexError: list index out of range
+
+common\html_re.py:9: IndexError
+                                        </pre>
+                                    </div>
+                                    <!--css div popup end-->
+                                    </td>
+                                </tr>
+                            
+                        
+                    
+                    <tr id='total_row'>
+                        <td>总计</td>
+                        <td>11</td>
+                        <td>9</td>
+                        <td>0</td>
+                        <td>2</td>
                         <td>0</td>
                         <td>&nbsp;</td>
                     </tr>
@@ -480,9 +573,9 @@ function html_escape(s) {
                     data: {
                         datasets: [{
                             data: [
-                                7,
+                                9,
                                 0,
-                                1,
+                                2,
                                 0,
                             ],
                             backgroundColor: [
