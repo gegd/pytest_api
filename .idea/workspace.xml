@@ -2,20 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4690994b-ae44-41d7-a93b-d66c62979c01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case/xadmin_login/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case/xadmin_login/add_data.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case/xadmin_login/add_teacher.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case/xadmin_login/conftest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case/xadmin_login/test_image_add.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/case/xadmin_login/test_teacher_add.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/html_re.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/007b5478-91bb-4932-a563-5fd7296f7c62-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/00ec3a77-9809-421a-9963-6467a38cfc4e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/021bd5c0-77bb-48f2-aea3-8222568416e5-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/036a8a5e-d8d2-4dca-a22a-f6caade4df51-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/09ca8a8b-900b-434d-a7d1-5cfb6a02c65e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/0a99abcf-42ea-469d-95df-16dbfbad799d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/12d53537-6bd2-4b5a-b6b5-6f6449b1a499-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/1a9e3d8e-c10a-4e35-93a8-decb577d441d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/1db35020-0de8-44f8-99f0-219cf78e33af-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/21d62f5b-d031-4573-9c9e-fedb835d1ac6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/22e28a25-b178-4e15-ada0-0389b7fbd411-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/29c66845-f09c-4e1e-9450-44f1a78d31eb-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/31db5d3b-880f-4475-afe9-fe44e7fca9fe-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/36064276-3c53-4e3d-8bbc-18480811dd28-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/380dbad7-b355-4687-a660-359717e73eb5-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/3cdf7b07-f59c-47bf-8197-69f677a24b67-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/41314f01-f6ec-4487-a994-a3b7c4cc898b-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/41d2eca4-f6cb-484e-9655-b7a129c4ceac-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/4557ab2d-5845-477f-915c-34b1e14582ac-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/475bb48c-9ffc-4d12-89b5-7a7f924ac517-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/4a06993d-5e39-4ee8-8e1a-dd53fba3c81a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/4f18e435-8e22-41c6-84ba-889d54508490-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/504afdd0-0893-4bef-bcde-1ddfc94d0625-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/52780b8d-b098-4197-bec4-924c232d3e34-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/55aadcc6-adc2-45ca-98df-d3076cf555ac-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/58e6202f-6d2b-4f91-93b9-b4a73cc63cb1-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/592bc814-c6d9-43db-a83f-52ccb68a11c9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/59df5679-7309-43e7-840a-049bfb9c75f9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/5d3823a7-4413-413c-a32a-c86b1902e263-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/5d8f9393-1219-4162-a4ad-070985b733ac-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/5e30497e-e69d-403d-8841-bc2314db45dc-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/60d44b0c-c27a-4769-b381-0c829b140976-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/6433bbdb-47f5-4fc2-8c3a-e2c40a5000bb-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/65322869-9ba6-4453-8ad2-5a188d97fbc6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/69338b72-b5ef-4da6-9d29-57345ef19899-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/699e2028-880e-4071-bf2a-922c22b9794c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/6da12b50-14ef-4e58-81c9-d3af17099a50-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/70bd37c7-9982-4629-84b5-8a4db113649e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/71e6bea1-08cf-448d-a105-4174e80cb9b9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/7304a7b0-32c8-4a4e-854d-b9626f0aa6a3-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/7440e992-d21d-4f48-8f87-ce96e2de129b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/75e91dcb-c14c-4125-9d97-2d0e82174d8a-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/76958683-d836-4291-9374-8c4397b20fbf-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/7d165fcb-fcdf-4e09-9c28-d2bcbe7c105a-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/7e103515-9983-4c7b-8b11-9c9ecdaf4605-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/84afaa81-f6a3-428f-89f9-2e3c5bddb76e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/85eec073-9150-436e-bac6-88dcf7872fcd-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/88b30974-be68-44bb-82db-9f0df939a066-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/8d908382-1727-4762-b0de-0feb523e1fd2-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/8db9645b-dd7f-446d-9806-ec3bc8f7ba70-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/931e6053-5ebc-413b-8587-f824505c7353-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/94eb546b-b3fe-4e52-aa8e-117197b5093c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/953943c9-47be-4026-b1c6-6667d7420b61-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/99f13bd8-413d-4ac3-80c5-262cb2b05cbf-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/9aeecdf4-8bbc-497c-93be-ed8b5486bbbf-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/9e2d987a-7c30-4d81-8bf1-6ad13220a560-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/9ea6b33d-2a91-4a1e-82ad-b9b2e1bd76ad-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/9eda5802-f5d7-45dd-b915-15a60b70c212-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/9f39abea-c5b7-42f7-8155-831aba66db62-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/a1a9ab4e-ec75-4d24-8df4-2b98f5d155da-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/a1c869cf-547c-43fb-8ad7-cd7104e01a3b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/a2b9dc72-0433-4bf6-85d4-478ba678a8a1-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/a4f3b385-5893-4c5f-87ab-b771bf56f08f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/a97abefa-7b82-485e-b9c9-695098ab4d0f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/bc11f3f6-660a-4bf1-9c74-a5e806d23a04-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/be8c0618-0a20-4c73-85a5-06370fdefc8d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/c087aaf1-a560-4d34-b57b-def2dda5e8bd-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/c5ea7853-89b3-4356-81c6-66680ce043c5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/c99c7f6a-a22e-4017-a10c-ff2d584c5d7c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/cbab41f5-128b-45b6-a457-cdf6fc1f7922-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/cbd8f23f-4d3f-44c2-a059-3b8f0ca70eae-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/cd35cf62-5e08-449e-ad01-20461bda076d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/d71520f3-66e8-48f2-bf9d-6b0d23e4c9d5-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/d9307caa-6b32-487d-802b-0c198f7dc18e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/df4740a1-043e-4ddd-995f-e3996a8487c7-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/dfcc9623-e3cd-4cd8-9e3f-7610d5e426c9-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/e3a0b1a3-d072-48d3-8ceb-f153e7fbb5f4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/e3b290d6-71d1-44d3-b0af-a66304c75ac9-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/e631cb1f-4ecb-4204-aa56-16e8f180374b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/e8c28f11-33e0-4b0e-9156-b5a896a58968-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/ec6eb9f1-3e76-4d6a-bcff-61cebde60348-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/eeca3fe5-ebbf-4c18-83e2-2f4c07db88c1-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/f126e6ca-11b0-4b4c-b4ba-96620c49d275-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/f2aa1789-529f-4064-9082-eb1dc2a8fa3e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/f4c3d453-09f1-454f-8e85-dbfc901baca6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/f5d643d4-f8c8-4e36-95d3-a4ffbb9c15a3-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/f65484d8-9424-4d88-a3ed-c1a6d44085bd-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/f93a76a0-7cba-405d-9603-785d4d58303b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/f990eb8a-17be-4c98-9149-33f32c67a693-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/fac12c9e-2daf-4016-b882-e599ec768f9b-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/fb2e451d-9199-44d7-bd75-4477064a55c3-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/allure_raw/fca45a17-0086-473b-96a3-60e66ede54fb-result.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case/common_function.py" afterPath="$PROJECT_DIR$/case/common_function.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case/conftest.py" afterPath="$PROJECT_DIR$/case/conftest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/read_yml.py" afterPath="$PROJECT_DIR$/common/read_yml.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conftest.py" afterPath="$PROJECT_DIR$/conftest.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pytest.ini" afterPath="$PROJECT_DIR$/pytest.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,27 +105,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_image_add_test_add_image.coverage" NAME="py.test for test_image_add.test_add_image Coverage Results" MODIFIED="1579102219937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_teacher_add_test_add_teacher001.coverage" NAME="py.test for test_teacher_add.test_add_teacher001 Coverage Results" MODIFIED="1579102234605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_userinfo_py.coverage" NAME="py.test in test_userinfo.py Coverage Results" MODIFIED="1578578600327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/get_userinfo" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$connect_mysql.coverage" NAME="connect_mysql Coverage Results" MODIFIED="1578488058798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$common_function.coverage" NAME="common_function Coverage Results" MODIFIED="1579005623625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$read_yml.coverage" NAME="read_yml Coverage Results" MODIFIED="1578488094021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_register_py.coverage" NAME="py.test in test_register.py Coverage Results" MODIFIED="1578491818311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/do_register" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_teacher_add_TestAddTeacher_test_add_teacher001.coverage" NAME="py.test for test_teacher_add.TestAddTeacher.test_add_teacher001 Coverage Results" MODIFIED="1579102956098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_teacher_add_py.coverage" NAME="py.test in test_teacher_add.py Coverage Results" MODIFIED="1579103473475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_update_userinfo_py.coverage" NAME="py.test in test_update_userinfo.py Coverage Results" MODIFIED="1578489917272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/update_userinfo" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_update_userinfo_test_update_userinfo_002.coverage" NAME="py.test for test_update_userinfo.test_update_userinfo_002 Coverage Results" MODIFIED="1578584543476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/update_userinfo" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_register_test_register_001.coverage" NAME="py.test for test_register.test_register_001 Coverage Results" MODIFIED="1578490406939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/do_register" />
-    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_image_add_py.coverage" NAME="py.test in test_image_add.py Coverage Results" MODIFIED="1579016582807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/add_teacher" />
     <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_teacher_add_TestAddTeacher.coverage" NAME="py.test for test_teacher_add.TestAddTeacher Coverage Results" MODIFIED="1579103419067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_userinfo_py.coverage" NAME="py.test in test_userinfo.py Coverage Results" MODIFIED="1578578600327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/get_userinfo" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$read_yml.coverage" NAME="read_yml Coverage Results" MODIFIED="1578488094021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$connect_mysql.coverage" NAME="connect_mysql Coverage Results" MODIFIED="1578488058798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_register_py.coverage" NAME="py.test in test_register.py Coverage Results" MODIFIED="1578491818311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/do_register" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_teacher_add_py.coverage" NAME="py.test in test_teacher_add.py Coverage Results" MODIFIED="1579103473475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_teacher_add_test_add_teacher001.coverage" NAME="py.test for test_teacher_add.test_add_teacher001 Coverage Results" MODIFIED="1579102234605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$common_function.coverage" NAME="common_function Coverage Results" MODIFIED="1579005623625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_register_test_register_001.coverage" NAME="py.test for test_register.test_register_001 Coverage Results" MODIFIED="1578490406939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/do_register" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_teacher_add_TestAddTeacher_test_add_teacher001.coverage" NAME="py.test for test_teacher_add.TestAddTeacher.test_add_teacher001 Coverage Results" MODIFIED="1579102956098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_update_userinfo_py.coverage" NAME="py.test in test_update_userinfo.py Coverage Results" MODIFIED="1578489917272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/update_userinfo" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_image_add_test_add_image.coverage" NAME="py.test for test_image_add.test_add_image Coverage Results" MODIFIED="1579102219937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/xadmin_login" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_for_test_update_userinfo_test_update_userinfo_002.coverage" NAME="py.test for test_update_userinfo.test_update_userinfo_002 Coverage Results" MODIFIED="1578584543476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/update_userinfo" />
+    <SUITE FILE_PATH="coverage/pytest_api_2010$py_test_in_test_image_add_py.coverage" NAME="py.test in test_image_add.py Coverage Results" MODIFIED="1579016582807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/add_teacher" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="test_image_add.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_image_add.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="187">
               <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -58,12 +138,10 @@
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/xadmin_login/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="153">
               <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
-                <marker date="1579104021721" expanded="true" signature="531:587" ph="DELETE FROM " />
-                <marker date="1579104021721" expanded="true" signature="751:809" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
@@ -72,7 +150,7 @@
       <file leaf-file-name="add_data.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/xadmin_login/add_data.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="34">
               <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
@@ -82,8 +160,8 @@
       <file leaf-file-name="html_re.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/html_re.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="119">
+              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -94,7 +172,7 @@
       <file leaf-file-name="add_teacher.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/xadmin_login/add_teacher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="187">
               <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
@@ -103,24 +181,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="85">
+              <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_teacher_add.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_teacher_add.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_teacher_add.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="493">
+              <caret line="38" column="67" lean-forward="false" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -156,10 +257,10 @@
         <option value="$PROJECT_DIR$/case/add_teacher/test_teacher_add.py" />
         <option value="$PROJECT_DIR$/case/xadmin_login/add_data.yml" />
         <option value="$PROJECT_DIR$/case/xadmin_login/test_teacher_add.py" />
-        <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/case/xadmin_login/conftest.py" />
         <option value="$PROJECT_DIR$/case/xadmin_login/add_teacher.py" />
         <option value="$PROJECT_DIR$/common/html_re.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
       </list>
     </option>
   </component>
@@ -169,11 +270,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="388" />
-    <option name="y" value="23" />
-    <option name="width" value="1391" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -193,40 +294,54 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="pytest_api_2010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytest_api_2010" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytest_api_2010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytest_api_2010" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytest_api_2010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytest_api_2010" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="xadmin_login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytest_api_2010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytest_api_2010" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytest_api_2010" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytest_api_2010" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pytest-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xadmin_login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,87 +369,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python tests.py.test in test_teacher_add.py">
-    <configuration name="py.test for case.xadmin_login.test_image_add.test_add_image" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pytest_api_2010" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;case.xadmin_login.test_image_add.test_add_image&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for case.xadmin_login.test_teacher_add.test_add_teacher001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pytest_api_2010" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;case.xadmin_login.test_teacher_add.test_add_teacher001&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_image_add.test_add_image" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pytest_api_2010" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_image_add.test_add_image&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_teacher_add.TestAddTeacher" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pytest_api_2010" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_teacher_add.TestAddTeacher&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_teacher_add.TestAddTeacher.test_add_teacher001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pytest_api_2010" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_teacher_add.TestAddTeacher.test_add_teacher001&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_teacher_add.test_add_teacher001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="py.test for test_teacher_add.test_add_teacher001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -349,8 +384,9 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_teacher_add.test_add_teacher001&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
     </configuration>
-    <configuration name="py.test in test_teacher_add.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="py.test in test_teacher_add.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -365,6 +401,75 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/case/xadmin_login/test_teacher_add.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_image_add.test_add_image" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytest_api_2010" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_image_add.test_add_image&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_teacher_add.TestAddTeacher.test_add_teacher001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytest_api_2010" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_teacher_add.TestAddTeacher.test_add_teacher001&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_teacher_add.TestAddTeacher" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/xadmin_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytest_api_2010" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_teacher_add.TestAddTeacher&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_teacher_add.test_add_teacher001" />
@@ -429,18 +534,18 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29530916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737032" sideWeight="0.50323623" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41065294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281787" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281787" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281787" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -451,13 +556,14 @@
       <window_info id="Anonymous Apex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SOQL Query" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281787" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Log Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -467,6 +573,119 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/case/xadmin_login/add_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_teacher_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_image_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/xadmin_login/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/xadmin_login/add_data.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/html_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/xadmin_login/add_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_teacher_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_image_add.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -483,8 +702,6 @@
           <caret line="28" column="75" lean-forward="false" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
-            <marker date="1579104021721" expanded="true" signature="531:587" ph="DELETE FROM " />
-            <marker date="1579104021721" expanded="true" signature="751:809" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -493,7 +710,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -509,9 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <marker date="1578488058767" expanded="true" signature="1182:1230" ph="SELECT * FRO... auth_user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -536,9 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding>
-            <marker date="1579012770801" expanded="true" signature="651:700" ph="delete from " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -546,9 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -589,9 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -599,9 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding>
-            <marker date="1579012770801" expanded="true" signature="651:700" ph="delete from " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,34 +836,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/case/register/conftest.py" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/case/update_userinfo/req_data.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,9 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <marker date="1578488058767" expanded="true" signature="1182:1230" ph="SELECT * FRO... auth_user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,9 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,9 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,31 +908,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <marker date="1579012770801" expanded="true" signature="651:700" ph="delete from " />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/case/xadmin_login/add_data.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="34">
           <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_image_add.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="187">
           <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -771,20 +931,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/case/xadmin_login/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="153">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
-            <marker date="1579104021721" expanded="true" signature="531:587" ph="DELETE FROM " />
-            <marker date="1579104021721" expanded="true" signature="751:809" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/html_re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -793,7 +951,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/case/xadmin_login/add_teacher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="187">
           <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
@@ -801,13 +959,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/case/xadmin_login/test_teacher_add.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="493">
+          <caret line="38" column="67" lean-forward="false" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
