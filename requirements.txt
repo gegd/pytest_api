@@ -23,7 +23,7 @@ requests==2.19.1
 requests-toolbelt==0.8.0
 selenium==2.53.6
 six==1.13.0
-urllib3==1.23
+urllib3==1.26.5
 wcwidth==0.1.7
 Werkzeug==0.16.0
 zipp==0.6.0
